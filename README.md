@@ -2,76 +2,154 @@
 
 ## About Me
 
-I am Ahmad Akram, a Computer Science graduate specializing in Flutter and Dart programming languages. I excel in transforming conceptual ideas into dynamic digital platforms. With a strong expertise in Flutter development, I provide innovative solutions and a personalized approach to help you achieve your digital objectives. Actively seeking Programming, Flutter, and Android/iOS Development opportunities, I aspire to apply and expand my technical skills while contributing to meaningful real-world projects.
+I am Ahmad Akram, a passionate and detail-oriented Computer Science graduate with a CGPA of **3.71/4.00**. I specialize in **Flutter** and **Dart** programming languages, with proven expertise in creating intuitive and dynamic digital solutions. My journey in mobile application development has equipped me with a strong foundation in modern frameworks, state management, and API integrations. I take pride in turning innovative ideas into functional, user-centric applications.  
 
-- 📧 **Email:** Ahmadg03025249091@gmail.com
-- 📞 **Phone:** 03025249091 
+Currently, I am actively seeking roles in **Programming**, **Flutter Development**, and **Android/iOS Development** to utilize my technical expertise and contribute to impactful real-world projects.
+
+---
+
+### 📫 Let's Connect
+- 📧 **Email:** Ahmadg03025249091@gmail.com  
+- 📞 **Phone:** +92 302 5249091  
 - 📍 **Location:** Bahria Town, Lahore, Pakistan  
-- 🌐 **Website:** [www.AhmadAkram.com](www.AhmadAkram.com) 
-- 🔗 **LinkedIn:** [linkedin.com/in/âhmãd-äkřám](linkedin.com/in/âhmãd-äkřám)
-- 🐙 **GitHub:** [github.com/AhmadAkram52](github.com/AhmadAkram52) 
-- 🚀 **Stack Overflow:** [stackoverflow.com/users/16526803/ahmad-akram](stackoverflow.com/users/16526803/ahmad-akram)
+- 🌐 **Website:** [www.AhmadAkram.com](http://www.AhmadAkram.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/âhmãd-äkřám](https://www.linkedin.com/in/âhmãd-äkřám)  
+- 🐙 **GitHub:** [github.com/AhmadAkram52](https://github.com/AhmadAkram52)  
+- 🚀 **Stack Overflow:** [stackoverflow.com/users/16526803/ahmad-akram](https://stackoverflow.com/users/16526803/ahmad-akram)
 
-## Education
+---
 
-- **BS Computer Science**
-  - University of Okara
-  - 09/2019 - 09/2023
+## 🎓 Education
 
-- **ICS**
-  - Higher School Akhtar Abad
-  - 06/2017 - 08/2019
+### **Bachelor of Science in Computer Science**
+- **University of Okara**, Renala Khurd, Pakistan  
+- **Duration:** Nov 2019 - Dec 2023  
+- **Grade:** A | **CGPA:** 3.71/4.00  
+- [Visit University Website](http://uo.edu.pk)
 
-## Work Experience
+### **Intermediate in Computer Science (ICS)**
+- **Govt. Higher School Akhtar Abad**, Renala Khurd, Pakistan  
+- **Duration:** Jul 2017 - Aug 2019  
 
-### Flutter Internee
-- **PluttoX Software Company**
-- 10/2023 - 03/2024
-- Renala Khurd, Okara
-- 
-### Flutter Developer
-- **DevOasis Tech**
-- 10/2023 - 03/2024
--  Wapada Town, Lahore
+### **CIT (Graphics Web & Mobile App Designing)**
+- **UNI-Tech College of Management & Technology**, Okara, Pakistan  
+- **Duration:** Sep 2020 - Mar 2021  
+- [College on Facebook](https://www.facebook.com/ucmtofficial/)
 
-### Software Engineer
-- **Wordsense Software Company**
-- 10/2023 - Present
-- Bahria Town, Lahore
+---
 
-## Skills
+## 💼 Work Experience
 
-- **Languages:** Flutter, Dart, C++, OOP
-- **Tools:** GitHub, Android Studio IDE
-- **Platforms:** Android Development, iOS Development
-- **Design:** Canva
-- **Architecture:** MVVM, Provider
-- **APIs:** REST API
+### **Software Engineer**
+- **Texcel**, Lahore, Pakistan  
+- **Duration:** Nov 2024 – Present  
+- **Key Contributions:**  
+  - Designed and implemented responsive UI components for Flutter applications.  
+  - Debugged and troubleshot technical issues, improving app stability and performance.  
+  - Integrated Firebase services (authentication, database, analytics, and cloud functions).  
+  - Built APIs for seamless backend communication, including RESTful and WebSocket APIs.  
+  - Collaborated with cross-functional teams to ensure successful project delivery.
 
-## Certificates
+### **Junior Flutter Developer**
+- **Devoasis Technologies**, Lahore, Pakistan  
+- **Duration:** Mar 2024 – Nov 2024  
+- **Key Contributions:**  
+  - Built user-friendly UI components with optimal responsiveness and aesthetics.  
+  - Integrated Firebase backend services for enhanced app functionality.  
+  - Developed diverse mobile apps using Flutter, incorporating efficient state management.  
+  - Debugged and resolved issues to maintain high application quality.
 
-- **CIT (Graphics Web & Mobile App Designing)**
-  - UCMT Okara
-  - Mar 10, 2021
+### **Flutter Developer**
+- **Pluttox Software Company**, Renala Khurd, Okara, Pakistan  
+- **Duration:** Jul 2023 – Mar 2024  
+- **Key Contributions:**  
+  - Explored Flutter widgets and plugins to design custom user interfaces.  
+  - Built basic Flutter applications to gain practical development experience.  
+  - Participated in workshops and training sessions to refine technical skills.
 
-- [**Databases for Back-End Development**](https://www.coursera.org/account/accomplishments/verify/RK0GH4XHEYU4)
-  - Meta Coursera
-  - Sep 18, 2024
+### **Beginner Web Developer**
+- **Itiains Company**, Renala Khurd, Okara, Pakistan  
+- **Duration:** Nov 2020 – Sep 2022  
+- **Key Contributions:**  
+  - Created responsive web pages using **HTML**, **CSS**, and **Bootstrap**.  
+  - Implemented backend functionality using **PHP** and **MySQL**.  
+  - Customized WordPress websites using themes, templates, and plugins.  
+  - Debugged code for cross-browser compatibility and user experience optimization.  
 
-- [**Introduction to Dart**](https://www.coursera.org/account/accomplishments/verify/BB32RR4F8A36)
-  - Google Cloud Coursera
-  - Aug 28, 2024
+---
 
-## Languages
+## 🛠️ Skills
 
-- **English:** Professional Working Proficiency
-- **Urdu:** Native or Bilingual Proficiency
-- **Punjabi:** Native or Bilingual Proficiency
+### **Programming Languages**
+- **Flutter**  
+- **Dart**  
+- **C++**  
+- **Object-Oriented Programming (OOP)**  
 
-## Interests
+### **Frameworks & Tools**
+- **State Management:** GetX, Provider  
+- **Backend Services:** Firebase (Firestore, Auth, Cloud Functions, Realtime Database)  
+- **APIs:** RESTful APIs, WebSocket APIs, Postman  
+- **Version Control:** Git, GitHub  
+- **IDEs:** Android Studio  
 
-I continually learn the best technologies in my domain, focusing on Flutter, Dart, and cutting-edge tools. My interests include critical thinking, Ai, and mathematics.
+### **Additional Skills**
+- MVC Patterns  
+- Clean Code, Clean Architecture (SOLID principles)  
+- Responsive UI/UX Design (Canva)  
 
+---
+
+## 🚀 Projects
+
+### **Chat Circle Application**
+A cross-platform real-time messaging app inspired by Slack, built with Flutter. Integrates WebSockets and APIs for smooth communication and collaboration.  
+
+### **Mozo Live Social Media**
+A feature-rich social media platform enabling users to share videos, images, and stories. Includes real-time chat and custom playlists.
+
+### **Living Plus Fitness App**
+A fitness tracker with calorie counting, step tracking, and detailed progress reporting. State management is handled via GetX.
+
+### **Nexcab Ride-Hailing App**
+A user-friendly app inspired by InDrive, featuring Google Maps integration, real-time ride tracking, and API-based registration.
+
+### **SpeakUp**
+A real-time voice-to-text transcription app providing easy note-taking and accessibility features.
+
+### **Multi-Camera Video Recorder**
+An app enabling simultaneous front and rear camera recording, with video concatenation for seamless playback.
+
+For my full project portfolio, visit my [GitHub](https://github.com/AhmadAkram52).
+
+---
+
+## 📜 Certifications
+
+- **Databases for Back-End Development**  
+  - *Meta via Coursera* | Sep 2024  
+  - [Verify Here](https://coursera.org/share/16dac87babc77406865615292ef1e8f4)  
+
+- **Introduction to Dart**  
+  - *Google Cloud via Coursera* | Aug 2024  
+  - [Verify Here](https://www.coursera.org/account/accomplishments/verify/BB32RR4F8A36)  
+
+- **CIT (Graphics Web & Mobile App Designing)**  
+  - Mar 2021  
+
+---
+
+## 🌍 Languages
+
+- **English:** Professional Working Proficiency  
+- **Urdu:** Native or Bilingual Proficiency  
+- **Punjabi:** Native or Bilingual Proficiency  
+
+---
+
+## 💡 Interests
+
+I am committed to staying updated with the latest technologies in Flutter and mobile app development. I enjoy exploring AI innovations, mathematics, and solving complex problems. Continuous learning and sharing knowledge within the developer community remain my core values.
 
 
 <!--
