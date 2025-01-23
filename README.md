@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am Ahmad Akram, a passionate and detail-oriented Computer Science graduate with a CGPA of **3.71/4.00**. I specialize in **Flutter** and **Dart** programming languages, with proven expertise in creating intuitive and dynamic digital solutions. My journey in mobile application development has equipped me with a strong foundation in modern frameworks, state management, and API integrations. I take pride in turning innovative ideas into functional, user-centric applications.  
+I am Ahmad Akram, a passionate and detail-oriented Computer Science graduate with a CGPA of **3.71/4.00**, specializing in **Flutter** and **Dart** programming languages. I have extensive experience in designing, developing, and maintaining user-friendly mobile applications. I thrive on turning creative concepts into functional, user-centric solutions, leveraging modern frameworks, state management techniques, and seamless API integrations.  
 
-Currently, I am actively seeking roles in **Programming**, **Flutter Development**, and **Android/iOS Development** to utilize my technical expertise and contribute to impactful real-world projects.
+Currently, I am actively seeking roles in **Programming**, **Flutter Development**, and **Android/iOS Development** to further enhance my expertise and contribute to meaningful real-world projects.
 
 ---
 
@@ -102,25 +102,55 @@ Currently, I am actively seeking roles in **Programming**, **Flutter Development
 
 ## 🚀 Projects
 
-### **Chat Circle Application**
-A cross-platform real-time messaging app inspired by Slack, built with Flutter. Integrates WebSockets and APIs for smooth communication and collaboration.  
+1. **Chat Circle Application**  
+   - A cross-platform messaging app supporting macOS, iOS, and Android.  
+   - Real-time communication using WebSockets and API integrations.  
 
-### **Mozo Live Social Media**
-A feature-rich social media platform enabling users to share videos, images, and stories. Includes real-time chat and custom playlists.
+2. **Mozo Live Social Media**  
+   - A social media app offering functionalities similar to Facebook and Instagram.  
+   - Real-time chat, video/audio sharing, and custom playlists.  
 
-### **Living Plus Fitness App**
-A fitness tracker with calorie counting, step tracking, and detailed progress reporting. State management is handled via GetX.
+3. **Living Plus Fitness App**  
+   - Fitness tracker with progress monitoring, calorie counting, and step tracking.  
 
-### **Nexcab Ride-Hailing App**
-A user-friendly app inspired by InDrive, featuring Google Maps integration, real-time ride tracking, and API-based registration.
+4. **Nexcab Ride-Hailing App**  
+   - Ride-hailing app inspired by InDrive with real-time ride tracking via Google Maps.  
 
-### **SpeakUp**
-A real-time voice-to-text transcription app providing easy note-taking and accessibility features.
+5. **SpeakUp**  
+   - Voice-to-text transcription app for real-time audio conversion.  
 
-### **Multi-Camera Video Recorder**
-An app enabling simultaneous front and rear camera recording, with video concatenation for seamless playback.
+6. **Multi-Camera Video Recorder**  
+   - An app enabling simultaneous recording from front and rear cameras.  
 
-For my full project portfolio, visit my [GitHub](https://github.com/AhmadAkram52).
+7. **Blog Application**  
+   - Developed using the Bloc architecture and Supabase as the backend for real-time updates.  
+
+8. **Grocery Store App UI**  
+   - Designed a clean and intuitive UI for a grocery store app.  
+
+9. **A-Store E-Commerce App UI**  
+   - Built an appealing and responsive UI for an e-commerce application.  
+
+10. **Recipe Finder App**  
+    - Allows users to search, save, and view recipes.  
+
+11. **COVID Tracker App**  
+    - Fetches global and country-specific COVID-19 statistics using REST APIs.  
+
+12. **Lottery App**  
+    - A simple lottery app showcasing random number generation and result logic.  
+
+13. **BMI Calculator App**  
+    - Helps users calculate and monitor their BMI.  
+
+14. **TODO App**  
+    - A task management app with CRUD operations integrated via REST APIs.  
+
+15. **Vipin – Personalized Pinning App**  
+    - Users can mark and share custom pins on Google Maps with descriptions.  
+
+16. **Chatting App**  
+    - Real-time messaging app built with Firebase.  
 
 ---
 
@@ -149,7 +179,7 @@ For my full project portfolio, visit my [GitHub](https://github.com/AhmadAkram52
 
 ## 💡 Interests
 
-I am committed to staying updated with the latest technologies in Flutter and mobile app development. I enjoy exploring AI innovations, mathematics, and solving complex problems. Continuous learning and sharing knowledge within the developer community remain my core values.
+I am passionate about keeping up with emerging technologies, particularly in Flutter development. My interests include critical thinking, AI, mathematics, and contributing to open-source projects within the developer community.
 
 
 <!--
