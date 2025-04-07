@@ -13,7 +13,7 @@ Currently, I am actively seeking roles in **Programming**, **Flutter Development
 - 📞 **Phone:** +92 302 5249091  
 - 📍 **Location:** Bahria Town, Lahore, Pakistan  
 - 🌐 **Website:** [www.AhmadAkram.com](http://www.AhmadAkram.com)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ahmadakramdev](https://www.linkedin.com/in/ahmadakramdev/)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ahmadakram-dev](https://www.linkedin.com/in/ahmadakram-dev/)
 - 🐙 **GitHub:** [github.com/ahmadakramdev](https://github.com/ahmadakramdev)  
 - 🚀 **Stack Overflow:** [stackoverflow.com/users/16526803/ahmadakramdev](https://stackoverflow.com/users/16526803/ahmadakramdev)
 
