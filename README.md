@@ -2,9 +2,11 @@
 
 ## About Me
 
-I’m a Computer Science graduate and a passionate 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 and 𝗗𝗮𝗿𝘁, with a focus on building cross-platform mobile applications for 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 and 𝗶𝗢𝗦. I create high-performance, data-driven apps that deliver seamless UI/UX designs, real-time data integration, and reliable backend solutions using technologies like Firebase, RESTful APIs, WebSockets, and more.
+I’m a Computer Science graduate and a passionate **𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿** specializing in **𝗙𝗹𝘂𝘁𝘁𝗲𝗿** and **𝗗𝗮𝗿𝘁**, with a focus on building cross-platform mobile applications for **𝗔𝗻𝗱𝗿𝗼𝗶𝗱** and **𝗶𝗢𝗦**. I create high-performance, data-driven apps that deliver seamless **UI/UX designs**, real-time data integration, and reliable backend solutions using technologies like **Firebase**, **RESTful APIs**, **WebSockets**, and more.
+
 I work with innovators, startups, small businesses, and established companies who are looking to build innovative mobile apps that drive business growth, enhance user experience, and solve real-world problems.
-I'm actively seeking Programming, 𝗙𝗹𝘂𝘁𝘁𝗲𝗿, and 𝗔𝗻𝗱𝗿𝗼𝗶𝗱/𝗜𝗢𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 opportunities, aiming to apply and expand my 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 while contributing to meaningful 𝗥𝗲𝗮𝗹-𝗪𝗼𝗿𝗹𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+I'm actively seeking Programming, **𝗙𝗹𝘂𝘁𝘁𝗲𝗿**, and **𝗔𝗻𝗱𝗿𝗼𝗶𝗱/𝗜𝗢𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁** opportunities, aiming to apply and expand my **𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀** while contributing to meaningful **𝗥𝗲𝗮𝗹-𝗪𝗼𝗿𝗹𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**.
 
 ---
 
